@@ -9,7 +9,7 @@
 	. agrega todo
 	ruta
 : git commit
-	-m
-	-a 
+	-m //permite poner un mensaje con comillas
+	-a //ejecuta un git add .
 	
 	
