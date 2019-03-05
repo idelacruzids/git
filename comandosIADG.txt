@@ -8,3 +8,8 @@
 : git reset
 	. agrega todo
 	ruta
+: git commit
+	-m
+	-a 
+	
+	
